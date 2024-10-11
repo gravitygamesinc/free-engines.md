@@ -60,7 +60,7 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [YMCK](https://ymck.net/app/magical-8bit-plug-en) - Free plug-in for creating chiptune music within other DAWs.  
 [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Tool for creating sound effects with a focus on retro and chiptune sounds.  
 
-## Development  
+## Programming  
 [AFrame](https://aframe.io/docs/0.6.0/introduction/) - Web framework for creating VR experiences with JavaScript.  
 [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Engine specifically designed for creating interactive fiction and adventure games.  
 [Bevy](https://bevyengine.org/) - Open-source Rust game engine for building performant games.  
