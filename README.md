@@ -54,7 +54,6 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [MiniSoundEditor](https://xem.github.io/MiniSoundEditor/) - Simple online audio editor for basic sound editing tasks.  
 [NewGrounds](https://www.newgrounds.com/audio/) - Online community known for games and animation, also features a section for royalty-free music submissions.  
 [Soundbox](https://sb.bitsnbites.eu/) - Web-based tool for creating sound effects with a variety of options.  
-[SoundTrap](https://www.soundtrap.com/pricing?source=edu_pricing_switch) - Collaborative online platform for creating and sharing music (subscription required).  
 [Unminus](https://www.unminus.com/) - Provides royalty-free music with a focus on subscription plans for creators.  
 [Waveform](https://www.tracktion.com/products/waveform-free) - Free version of a popular DAW offering basic audio recording and editing capabilities.  
 [YMCK](https://ymck.net/app/magical-8bit-plug-en) - Free plug-in for creating chiptune music within other DAWs.  
