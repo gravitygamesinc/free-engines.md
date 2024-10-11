@@ -63,7 +63,6 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [AFrame](https://aframe.io/docs/0.6.0/introduction/) - Web framework for creating VR experiences with JavaScript.  
 [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Engine specifically designed for creating interactive fiction and adventure games.  
 [Bevy](https://bevyengine.org/) - Open-source Rust game engine for building performant games.  
-[Cinder](https://libcinder.org/) - C++ libraries for creative coding and game development.  
 [Cocos](https://www.cocos.com/en) - Popular game engine with versions for 2D, 3D, and mobile development.  
 [Defold](https://defold.com/) - Cross-platform game engine known for its visual scripting capabilities.  
 [EasyRPG](https://easyrpg.org/) - Open-source engine for creating 2D RPGs.  
@@ -74,7 +73,6 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [HaxeFlixel](https://haxeflixel.com/) - Open-source game framework using Haxe programming language.  
 [Heaps](https://heaps.io/) - Cloud-based game development platform with a visual editor.  
 [Jabo](https://jabo-bernardo.github.io/jabo-micro-game-engine/) - Micro game engine focused on simplicity and ease of use.  
-[JavaScript Performance Monitor](https://github.com/mrdoob/stats.js) - Tool for monitoring performance bottlenecks in JavaScript games.  
 [JMonkeyEngine](https://jmonkeyengine.org/) - Open-source Java game engine for creating 3D games.  
 [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight JavaScript game library for building small games.  
 [Microsoft Visual Studios](https://code.visualstudio.com/) - Popular code editor with features specifically for game development.  
@@ -85,7 +83,6 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [ORX](https://orx-project.org/) - Open-source game engine with a focus on performance and scalability.  
 [Panda3D](https://www.panda3d.org/) - Open-source 3D game engine known for its flexibility and cross-platform compatibility.  
 [Phaser](https://phaser.io/) - Open-source 2D game framework for HTML5 game development.  
-[PYGames](https://github.com/pygame/pygame) - Popular Python library for creating multimedia applications and games.  
 [Piston](https://www.piston.rs/) - Open-source game engine built on the Rust programming language.  
 [PlayCanvas](https://playcanvas.com/) - Lightweight 3D game engine with a focus on web-based development.  
 [Raylib](https://www.raylib.com/) - Simple and easy-to-use 2D and 3D game programming library.  
