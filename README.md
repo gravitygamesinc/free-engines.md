@@ -59,6 +59,17 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [YMCK](https://ymck.net/app/magical-8bit-plug-en) - Free plug-in for creating chiptune music within other DAWs.  
 [ZzFX](https://killedbyapixel.github.io/ZzFX/) - Tool for creating sound effects with a focus on retro and chiptune sounds.  
 
+## 🕹 Game Design  
+[Dundoc](https://www.dundoc.com/) - Platform for creating interactive fiction and choice-based games.  
+[RapidQuest](https://github.com/radiantone/rapidquest) - Open-source visual scripting tool for creating interactive stories and games.  
+[Twine](https://twinery.org/) - Free and open-source tool specifically designed for creating interactive fiction.  
+[YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - A tool used to build interactive dialogue in games.  
+
+## 💡 Production  
+[Asana](https://asana.com/?noredirect) - Platform for managing work, projects, and tasks.  
+[Casual](https://casual.pm/) - Visual project management tool that is easy to learn and use and that offers a 360° view of projects.  
+[ClickUp](https://clickup.com/) - Project management tool that allows teams to collaborate on projects of all sizes. It has features such as time tracking, task management, and chat.  
+
 ## 💻 Programming  
 [AFrame](https://aframe.io/docs/0.6.0/introduction/) - Web framework for creating VR experiences with JavaScript.  
 [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Engine specifically designed for creating interactive fiction and adventure games.  
@@ -96,13 +107,3 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [Unity](https://unity.com/) - Popular and powerful game engine for creating 2D, 3D, VR, AR, and mobile games.  
 [Unreal](https://www.unrealengine.com/en-US) - Industry-standard game engine capable of creating high-fidelity games.  
 
-## 🕹 Game Design  
-[Dundoc](https://www.dundoc.com/) - Platform for creating interactive fiction and choice-based games.  
-[RapidQuest](https://github.com/radiantone/rapidquest) - Open-source visual scripting tool for creating interactive stories and games.  
-[Twine](https://twinery.org/) - Free and open-source tool specifically designed for creating interactive fiction.  
-[YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - A tool used to build interactive dialogue in games.  
-
-## 💡 Production  
- [Asana](https://asana.com/?noredirect) - Platform for managing work, projects, and tasks.  
- [Casual](https://casual.pm/) - Visual project management tool that is easy to learn and use and that offers a 360° view of projects.  
- [ClickUp](https://clickup.com/) - Project management tool that allows teams to collaborate on projects of all sizes. It has features such as time tracking, task management, and chat.  
