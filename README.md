@@ -6,7 +6,7 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 
 ## Art and Animation  
 
-**◾ 2D Model**  
+**2D Model**  
 [Aseprite](https://www.aseprite.org/) - A dedicated program for creating pixel art and animations.  
 [Canvas-Txt](https://canvas-txt.geongeorge.com/) - Library for rendering multiline text on HTML5 Canvas.  
 [GlueIT](https://github.com/Kavex/GlueIT) - Open-source tool for merging pixel art sprite sheets.  
@@ -28,7 +28,7 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [Tile Setter](https://www.tilesetter.org/) - Tool for creating tilesets and maps for games.  
 [Ogmo](https://ogmo-editor-3.github.io/) - Open-source level editor focused on 2D games.  
 
- **◾ 3D Model**  
+ **3D Model**  
 [Blender](https://www.blender.org/) - Free and open-source 3D creation suite for modeling, animation, simulation, rendering, and more.  
 [BoundingBoxSoftware](https://boundingboxsoftware.com/materialize/) - A tool that lets you create game materials directly from images.  
 [Clara.io](https://clara.io/) - Web-based 3D modeling tool with cloud storage and collaboration features.  
