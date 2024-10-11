@@ -1,4 +1,4 @@
-## Free Engines  
+## ⚙ Free Engines  
 
 In this repo, we've gathered a collection of powerful, free-to-use game engines that are ideal for indie developers.  
 
