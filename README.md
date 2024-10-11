@@ -66,7 +66,6 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [Bevy](https://bevyengine.org/) - Open-source Rust game engine for building performant games.  
 [Cinder](https://libcinder.org/) - C++ libraries for creative coding and game development.  
 [Cocos](https://www.cocos.com/en) - Popular game engine with versions for 2D, 3D, and mobile development.  
-[Dash Engine](https://libcinder.org/) - C++ libraries for creative coding and game development.  
 [Defold](https://defold.com/) - Cross-platform game engine known for its visual scripting capabilities.  
 [EasyRPG](https://easyrpg.org/) - Open-source engine for creating 2D RPGs.  
 [Evergine](https://evergine.com/) - Open-source 3D game engine with a focus on scalability and performance.  
