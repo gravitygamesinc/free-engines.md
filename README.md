@@ -86,7 +86,7 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [GlassWire](https://www.glasswire.com/) -  Firewall software that monitors your network activity, displaying which applications are accessing the internet and allowing you to control their access.  
 [BleachBit](https://www.bleachbit.org/) -  System cleaner that helps you delete temporary files, system logs, cache, and other clutter to free up disk space and potentially improve system performance.  
 
-## 💡 Production  
+## ⚒ Production  
 [Airtable](https://www.airtable.com/) -  A spreadsheet-database hybrid that can be used for project management, CRM (Customer Relationship Management), and more.  
 [Asana](https://asana.com/?noredirect) -  Platform for managing work, projects, and tasks.  
 [Basecamp](https://basecamp.com/) -  A project management platform focused on team communication and collaboration.  
