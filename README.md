@@ -4,6 +4,14 @@ In this repo, we've gathered a collection of powerful, free-to-use game engines 
 
 Whether you're working on a 2D or 3D game, you'll find a variety of engines suited to different project needs. From popular engines like Unity, Unreal Engine and Godot to lesser-known gems, this collection will help you find the right tools to build your dream game.  
 
+🎨 [Art and Animation](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-art-and-animation)  
+🔊 [Audio](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-audio)  
+🕹 [Game Design](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-game-design)  
+🖥 [General](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-general)  
+⚒ [Production](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-production)  
+💻 [Programming](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-programming)  
+🐞 [QA - Quality Assurance](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-qa)  
+
 ## 🎨 Art and Animation  
 
 ### 2D Model  
@@ -151,7 +159,7 @@ Whether you're working on a 2D or 3D game, you'll find a variety of engines suit
 [Unreal Editor](https://dev.epicgames.com/community/fortnite/getting-started/uefn) -  A powerful and versatile game engine from Epic Games, used for creating high-fidelity 3D games.  
 [Unreal Engine](https://www.unrealengine.com/en-US) -  Industry-standard game engine capable of creating high-fidelity games.  
 
-## 🐞 QA  
+## 🐞 QA - Quality Assurance  
 [Appium](https://appium.io/docs/en/latest/) -  An open-source framework for automating mobile app testing across various platforms like iOS and Android. It allows using native testing frameworks and interacting with mobile apps on simulators or real devices.  
 [Bugzilla](https://www.bugzilla.org/) -  An open-source bug tracking system for logging, managing, and resolving software defects.  
 [Charles Proxy](https://www.charlesproxy.com/) -  A web debugging proxy similar to Fiddler, but specifically designed for macOS. It allows intercepting and analyzing HTTP(S) traffic, debugging web requests, and testing mobile apps.  
