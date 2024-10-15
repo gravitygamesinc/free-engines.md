@@ -51,7 +51,7 @@
 
 ## 🔊 Audio  
 [Audacity](https://sourceforge.net/projects/audacity/) -  Open-source, full-featured audio editor for recording, editing, and analyzing sound.  
-[Audio Kinetic](https://www.audiokinetic.com/en/wwise/pricing/) -  Industry-standard middleware for implementing sound and music in games.
+[Audio Kinetic](https://www.audiokinetic.com/en/wwise/pricing/) -  Industry-standard middleware for implementing sound and music in games.  
 [BeepBox](http://www.beepbox.co/) -  Web-based tool for creating chiptune music in the style of early video game consoles.  
 [Cakewalk](https://www.bandlab.com/products/cakewalk?gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG838DQnkGa4wkHCd9VfjVFD3E--4p_Iaz_4Gs7AGu39vLPY6HfwkfxoCitQQAvD_BwE) -  A free digital audio workstation (DAW) for creating and editing music and sound design for games.  
 [CakeWalk](https://www.bandlab.com/products/cakewalk?gad_source=1&gclid=CjwKCAjwgfm3BhBeEiwAFfxrG838DQnkGa4wkHCd9VfjVFD3E--4p_Iaz_4Gs7AGu39vLPY6HfwkfxoCitQQAvD_BwE) -  Feature-rich DAW with a free trial available (subscription required for continued use).  
