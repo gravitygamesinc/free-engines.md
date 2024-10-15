@@ -115,11 +115,11 @@
 ## 💻 Programming  
 
 ### Code  
-[Cinder](https://libcinder.org/) -  C++ libraries for creative coding and game development.
-[JavaScript Performance Monitor](https://github.com/mrdoob/stats.js) -  Tool for monitoring performance bottlenecks in JavaScript games.
-[Microsoft Visual Studios](https://code.visualstudio.com/) -  Popular code editor with features specifically for game development.
-[Notepad++](https://notepad-plus-plus.org/) -  Versatile text editor suitable for writing game code.
-[Sublime Text](https://www.sublimetext.com/) -  Text editor with code highlighting, multiple selections, and customization options.
+[Cinder](https://libcinder.org/) -  C++ libraries for creative coding and game development.  
+[JavaScript Performance Monitor](https://github.com/mrdoob/stats.js) -  Tool for monitoring performance bottlenecks in JavaScript games.  
+[Microsoft Visual Studios](https://code.visualstudio.com/) -  Popular code editor with features specifically for game development.  
+[Notepad++](https://notepad-plus-plus.org/) -  Versatile text editor suitable for writing game code.  
+[Sublime Text](https://www.sublimetext.com/) -  Text editor with code highlighting, multiple selections, and customization options.  
 
 ### Engine  
 [AFrame](https://aframe.io/docs/0.6.0/introduction/) -  Web framework for creating VR experiences with JavaScript.  
