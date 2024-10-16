@@ -3,8 +3,8 @@
 >In this repo, we've gathered a collection of powerful, free-to-use game engines that are ideal for indie developers.  
 >Whether you're working on a 2D or 3D game, you'll find a variety of engines suited to different project needs. From popular engines like Unity, Unreal Engine and Godot to lesser-known gems, this collection will help you find the right tools to build your dream game.  
 
-||  
-|----------------------------------| 
+|Summary|  
+|:----------------------------------| 
 |🎨 [Art and Animation](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-art-and-animation)  |
 |🔊 [Audio](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-audio)  |
 |🕹 [Game Design](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-game-design)  |
