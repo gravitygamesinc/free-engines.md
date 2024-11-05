@@ -1,31 +1,31 @@
-![Free Engine](https://github.com/bluegravitystudios/free-engines.md/blob/main/free_resources.png)
+![Free Engine](https://github.com/gravitygamesinc/free-engines.md/blob/main/free_resources.png)
 # ⚙ Free Engines  
 
 In this repo, we've gathered a collection of powerful, free-to-use game engines that are ideal for indie developers.  
 Whether you're working on a 2D or 3D game, you'll find a variety of engines suited to different project needs. From popular engines like Unity, Unreal Engine and Godot to lesser-known gems, this collection will help you find the right tools to build your dream game.  
 
-Didn't find what you were looking for? Check our other repos!
+Didn't find what you were looking for? Check out our other repos!
 
 [//]: #Repos
 <div align="lef">
-  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
-  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2057%402x.png" height="40" alt="Free Platforms"  /></a>
-  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
-  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
-  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2049%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/gravitygamesinc/free-engines.md"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2057%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/gravitygamesinc/learning-resources.md"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/gravitygamesinc/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
 </div>
 
 ### Table of Contents
 
 |Summary|  
 |:----------------------------------| 
-|🎨 [Art and Animation](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-art-and-animation)  |
-|🔊 [Audio](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-audio)  |
-|🕹 [Game Design](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-game-design)  |
-|🖥 [General](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-general)  |
-|⚒ [Production](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-production)  |
-|💻 [Programming](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-programming)  |
-|🐞 [QA - Quality Assurance](https://github.com/bluegravitystudios/free-engines.md/blob/main/README.md#-qa)  |
+|🎨 [Art and Animation](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-art-and-animation)  |
+|🔊 [Audio](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-audio)  |
+|🕹 [Game Design](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-game-design)  |
+|🖥 [General](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-general)  |
+|⚒ [Production](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-production)  |
+|💻 [Programming](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-programming)  |
+|🐞 [QA - Quality Assurance](https://github.com/gravitygamesinc/free-engines.md/blob/main/README.md#-qa)  |
 
 ## 🎨 Art and Animation  
 
@@ -193,6 +193,6 @@ Didn't find what you were looking for? Check our other repos!
 
 [//]: #Buttons
 <div align="center">
-  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
-  <a href="https://github.com/bluegravitystudios/free-engines.md?tab=readme-ov-file#-free-engines" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+  <a href="https://github.com/gravitygamesinc" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/gravitygamesinc/free-engines.md?tab=readme-ov-file#-free-engines" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
 </div>
